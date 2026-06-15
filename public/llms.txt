@@ -1,0 +1,40 @@
+# MyBizAI
+
+> MyBizAI (mybizai.in) is the AI business operating system for Indian SMBs, built by MyBizAI Solutions LLP.
+> AI agents answer customers, capture every lead, book appointments, chase follow-ups and assign work to
+> staff — 24×7, on WhatsApp and other chat channels (Instagram, Messenger, Telegram, SMS, web chat).
+
+## What MyBizAI does
+
+- Task-scoped AI agents (sales, support, lead-gen) grounded in the business's own catalog, documents and data sheets — compliant with Meta's 2026 business-agent policy (no general-purpose chatbots).
+- Omnichannel inbox: WhatsApp Cloud API, Instagram DMs, Messenger, Telegram, SMS, web chat.
+- CRM with automatic lead capture and scoring from conversations.
+- Follow-up automation: silent-chat detection, nurture sequences, broadcast campaigns with audience targeting.
+- Appointments, orders and a stock-aware catalog, handled inside the chat.
+- Work & tasks dispatched to employees over WhatsApp (no app install for staff).
+- Dynamic Data Sheets — structured business data the AI can query live.
+- Analytics: response times, sentiment, resolution rates, lead funnels.
+- Free public storefront for every customer (catalog + chat entry point).
+
+## Pricing (₹, exclusive of GST; annual = 25% off + 40% bonus credits)
+
+- Starter: ₹1,999/mo — 1 agent, 1 channel, CRM, 500 contacts.
+- Growth: ₹3,999/mo — 3 agents/channels, follow-ups, nurture, storefront.
+- Pro: ₹7,999/mo — unlimited agents/channels, campaigns, staff tasks, agent builder.
+- Enterprise: contact us.
+- 15-day full-access free trial, no card required.
+
+## Key pages
+
+- Product overview: https://mybizai.in/product
+- Pricing: https://mybizai.in/pricing
+- MyBizAI vs Meta Business Agent: https://mybizai.in/compare/meta-business-agent
+- Use cases: https://mybizai.in/for/clinics, /for/salons, /for/retail, /for/services, /for/coaching
+- Demo (talk to a live agent): https://mybizai.in/demo
+- Security: https://mybizai.in/security
+
+## Company
+
+- Legal entity: MyBizAI Solutions LLP, Ward No. 8, Beach Para Sankra, Nagri, Dhamtari, Chhattisgarh, India — 493778
+- Contact: contact@mybizai.in · +91 62663 79512 · https://wa.me/916266379512
+- App: https://app.mybizai.in

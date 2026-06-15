@@ -1,0 +1,6 @@
+# Netlify redirects (PRD §3.1)
+https://www.mybizai.in/* https://mybizai.in/:splat 301!
+
+# Defensive legal shortcuts
+/privacy /legal/privacy-policy 301
+/terms /legal/terms 301
